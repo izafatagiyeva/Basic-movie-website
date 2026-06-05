@@ -6,4 +6,4 @@ This movie website is divided into three sections: current events, new releases,
 
 HTML CSS JAVA SCRİPT
 
-![This is preview of project](https://github.com/izafatagiyeva/Basic-movie-website/blob/a2999ca230ac203eaf7e540686f1eda0a6f01145/Movie-website-intro.gif)
+![This is preview of project](https://github.com/izafatagiyeva/Basic-movie-website/blob/main/movie-record-gif.gif)
